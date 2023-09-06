@@ -1,2 +1,2 @@
 # snake_game
-developed snake game using pygame library
+developed a snake game using pygame library
